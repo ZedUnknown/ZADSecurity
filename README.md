@@ -9,7 +9,7 @@ This Python program, ZAD, provides a simple command-line interface for data encr
 - Encrypt and decrypt data securely.
 - Supports both file and manual text input.
 - Easy-to-use command-line interface.
-- Brure force attack feature.
+- Brute force attack feature.
 
 ## Prerequisites
 
